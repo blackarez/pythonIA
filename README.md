@@ -1,3 +1,7 @@
+# Tutorial de FastAPI utilizando AI
+
+Este proyecto siguiendo los conceptos del tutorial creado por Platzi llamado "Tutorial de Cursor, editor de código con AI"
+
 # API FastAPI
 
 Este es un proyecto básico de API REST utilizando FastAPI.
